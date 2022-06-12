@@ -9,3 +9,5 @@ Submitted to Pak.j.stat.oper.res.
 
 
 Programa01.odc: The OpenBUGS program.
+
+Programa01 CODAchain1.txt: MCMC chains simulated in OpenBUGS
