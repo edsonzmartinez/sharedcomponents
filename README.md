@@ -2,7 +2,7 @@
 
 These files were used for the data analyses in the article:
 
-Edson Zangiacomi Martinez, Diego Gafuri Silva, Larissa Intrebartoli Resende, Elisangela Aparecida da Silva Lizzi, and Jorge Alberto Achcar. Bayesian bivariate spatial shared component model: mapping breast and cervical cancer mortality in Southern Brazil. Pakistan Journal of Statistics and Operation Research. Vol.18 No.4 2022 pp 775-788.
+Diego Gafuri Silva, Larissa Intrebartoli Resende, Elisangela Aparecida da Silva Lizzi, Jorge Alberto Achcar, and Edson Zangiacomi Martinez. Bayesian bivariate spatial shared component model: mapping breast and cervical cancer mortality in Southern Brazil. Pakistan Journal of Statistics and Operation Research. Vol.18 No.4 2022 pp 775-788.
 
 DOI: http://dx.doi.org/10.18187/pjsor.v18i4.409
 
