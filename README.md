@@ -1,5 +1,7 @@
 # The Bayesian bivariate model with shared components
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
+
 These files were used for the data analyses in the article:
 
 Diego Gafuri Silva, Larissa Intrebartoli Resende, Elisangela Aparecida da Silva Lizzi, Jorge Alberto Achcar, and Edson Zangiacomi Martinez. Bayesian bivariate spatial shared component model: mapping breast and cervical cancer mortality in Southern Brazil. Pakistan Journal of Statistics and Operation Research. Vol.18 No.4 2022 pp 775-788.
